@@ -392,10 +392,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 ## 📞 Contact
 
 For questions or collaboration:
-- **Email:** your.email@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-
----
-
-**Made with ❤️ for the DeepTech Edge AI Chip Hackathon 2025**
+- **Email:** bhavagnabathula19@gmail.com
+- **GitHub:** [@bhavagnahere](https://github.com/bhavagnahere)
+- **LinkedIn:** [Bhavagna Bathula](https://linkedin.com/in/bhavagna-bathula)
